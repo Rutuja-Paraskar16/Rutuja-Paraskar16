@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rutuja Paraskar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/girl-character-cartoon_861875-9055.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja-paraskar16&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja-paraskar16" /> </p>
